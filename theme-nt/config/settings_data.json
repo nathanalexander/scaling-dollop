@@ -1,0 +1,26 @@
+{
+  "current": {
+    "sections": {
+      "dynamic-section": {
+        "type": "dynamic-section",
+        "settings": {}
+      }
+    },
+    "content_for_index": [
+      "dynamic-section"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "dynamic-section": {
+          "type": "dynamic-section",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "dynamic-section"
+      ]
+    }
+  }
+}

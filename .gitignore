@@ -13,3 +13,6 @@ shopify/config/settings_data.json
 # ignore all files inside shopify/assets/ except files with 'static' keyword in their filename
 shopify/assets/*
 !shopify/assets/*static*
+
+# ignore theme config based off of shopify foundation preset (made separate theme directory)
+config.yml
