@@ -8,7 +8,13 @@ const path = require('path')
 
 module.exports = {
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        green: {
+          550: '#00AB84'
+        }
+      }
+    },
     container: {
       center: true,
       padding: '1rem'
