@@ -15,6 +15,9 @@ module.exports = {
         }
       }
     },
+    fontFamily: {
+      'sans': ['Domaine\\ Regular'],
+    },
     container: {
       center: true,
       padding: '1rem'

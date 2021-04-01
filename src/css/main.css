@@ -5,6 +5,6 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 
-/* @import "my-file"; */
+@import "nt-styles";
 
 @import "tailwindcss/utilities";
