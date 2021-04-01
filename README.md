@@ -17,7 +17,9 @@
 <!-- badges (end) -->
 
 <!-- title / description (start) -->
-<h2 align="center">Shopify Theme Lab</h2>
+<h2 align="center">Shopify Theme Lab - NT Demo</h2>
+
+This repository is a demo using the Shopify Theme Lab / Shopify Foundation theme repositories as a starting point.
 
 Shopify Theme Lab is a customizable modular development environment for blazing-fast Shopify theme creation. By default, it's bundled with Vue.js and Tailwind CSS, but you can swap them for pretty much anything. Build a custom Shopify theme from scratch with a modern stack!
 
